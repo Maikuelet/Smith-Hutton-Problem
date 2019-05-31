@@ -9,5 +9,6 @@ equation over the domain calling the "Solver.m" file.
 For further studies you can check my thesis in the "Study for the computational resolution of conservation equations of mass, momentum
 and energy" in the following link:
 
-//"insert web page ling//
+//    "insert web page ling     //
+//"download it from repositorie //
 
